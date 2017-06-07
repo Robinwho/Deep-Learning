@@ -18,7 +18,7 @@
 
 [如何用100行Python代码做出魔性声控游戏“八分音符酱”](https://zhuanlan.zhihu.com/p/25499306)
 
-## （二）AI篇：
+## （二）ML/AI篇：
 * Deepmind：
 
 [DNC/L2L/..](https://deepmind.com/research/open-source/open-source-code/)
@@ -40,4 +40,11 @@
 [深度学习入门](https://www.zhihu.com/question/26006703)
 
 * TensorFlow:
-[Github Code](https://github.com/tensorflow/tensorflow)
+[TF:An open-source software library for Machine Intelligence](https://github.com/tensorflow/tensorflow)
+
+* keras:
+[keras:Deep Learning library for TensorFlow and Theano](https://github.com/fchollet/keras)
+[keras-rl:Deep Reinforcement Learning for Keras](https://github.com/matthiasplappert/keras-rl)
+[小白上手第一步：hello world!](https://github.com/fastforwardlabs/keras-hello-world)
+[小白进击之：mnist](https://github.com/wxs/keras-mnist-tutorial/blob/master/MNIST%20in%20Keras.ipynb)
+
