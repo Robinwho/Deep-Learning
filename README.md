@@ -1,5 +1,5 @@
-# --AI-ML
-人工智能资料汇总
+# MachineLearning-AI
+人工智能资料汇总(Artificial Intelligent/Machine Learning/Deep Learning)
 
 ## （一）Python篇：
 * 基础环境：
