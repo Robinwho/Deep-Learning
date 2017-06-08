@@ -45,6 +45,8 @@
 
 * keras:
 
+[0基础小白初体验机器学习](https://zhuanlan.zhihu.com/p/27303650)
+
 [keras:Deep Learning library for TensorFlow and Theano](https://github.com/fchollet/keras)
 
 [keras-rl:Deep Reinforcement Learning for Keras](https://github.com/matthiasplappert/keras-rl)
