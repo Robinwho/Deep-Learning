@@ -55,3 +55,12 @@
 
 [小白进击之：mnist](https://github.com/wxs/keras-mnist-tutorial/blob/master/MNIST%20in%20Keras.ipynb)
 
+## 补充：基础篇
+
+|| 近期收到一些网友提问，其中有提到，不懂程序如何应用人工智能？这个问题很大，所以单列一个基础篇，整理必备的材料供参考。
+
+* 语言篇：
+毫无疑问是python。推荐[国外著名的在线编程学习网站](https://www.codecademy.com/)。或者国内的[Python在线学习网站](http://www.runoob.com/python/python-tutorial.html)。类似W3school，可以随时网上进行练习。
+
+* 基础理论篇：
+计算机本科核心课程，尤其是数据结构/线性代数等人工智能必备知识。
