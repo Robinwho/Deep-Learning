@@ -47,7 +47,7 @@
 
 * keras:
 
-[0基础小白初体验机器学习](https://zhuanlan.zhihu.com/p/27303650)
+[10行命令感受机器学习的神奇（0基础小白适用）](https://zhuanlan.zhihu.com/p/27303650)
 
 [keras:Deep Learning library for TensorFlow and Theano](https://github.com/fchollet/keras)
 
