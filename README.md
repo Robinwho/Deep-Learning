@@ -39,6 +39,8 @@
 
 [深度学习入门](https://www.zhihu.com/question/26006703)
 
+[如何用70行Java代码实现深度神经网络算法](http://geek.csdn.net/news/detail/56086)
+
 * TensorFlow:
 
 [TF:An open-source software library for Machine Intelligence](https://github.com/tensorflow/tensorflow)
