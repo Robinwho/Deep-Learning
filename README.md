@@ -57,6 +57,12 @@
 
 [小白进击之：mnist](https://github.com/wxs/keras-mnist-tutorial/blob/master/MNIST%20in%20Keras.ipynb)
 
+* 算法：
+
+[随机森林算法](http://www.cnblogs.com/maybe2030/p/4585705.html)
+
+[BP神经网络算法](http://blog.csdn.net/zhongkejingwang/article/details/44514073)
+
 ## 补充：基础篇
 
 || 近期收到一些网友提问，其中有提到，不懂程序如何应用人工智能？这个问题很大，所以单列一个基础篇，整理必备的材料供参考。
