@@ -5,12 +5,12 @@
 * 基础环境：
 
 [最省心的Python版本和第三方库管理——初探Anaconda](https://zhuanlan.zhihu.com/p/25198543)
-* 开发：
+* 开发语言：
 
 [从0到1，Python Web开发的进击之路](https://zhuanlan.zhihu.com/p/25038203)
 
 [从0到1，Python异步编程的演进之路](https://zhuanlan.zhihu.com/p/25228075)
-* 实例：
+* 实例练习：
 
 [天猫双12爬虫（福利：266万条商品数据免费下载）](https://zhuanlan.zhihu.com/p/24312829)
 
@@ -57,7 +57,7 @@
 
 [小白进击之：mnist](https://github.com/wxs/keras-mnist-tutorial/blob/master/MNIST%20in%20Keras.ipynb)
 
-* 算法：
+* 算法概述：
 
 [随机森林算法](http://www.cnblogs.com/maybe2030/p/4585705.html)
 
@@ -65,7 +65,7 @@
 
 * 在线课程：
 
-** 优先推荐吴恩达大神的课程，错综复杂的内容讲的深入浅出。
+** 优先推荐吴恩达大神的视频课程，错综复杂的内容讲的深入浅出。其中1是网易免费版，但尚无习题，需要的可直接在链接2注册获取。
 
 1 [吴恩达给你的人工智能第一课【初学推荐】](http://mooc.study.163.com/smartSpec/detail/1001319001.htm?forcelogin=true&edusave=1)
 
