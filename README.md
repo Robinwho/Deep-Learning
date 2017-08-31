@@ -1,4 +1,4 @@
-# MachineLearning-AI
+# MachineLearning-AI【持续更新ing……】
 人工智能资料汇总(Artificial Intelligent/Machine Learning/Deep Learning)
 
 ## （一）Python篇：
