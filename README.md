@@ -51,7 +51,7 @@
 
 * keras:
 
-[10行命令感受机器学习的神奇（0基础小白适用）](https://zhuanlan.zhihu.com/p/27303650)
+[【入门推荐】10行命令感受机器学习的神奇（0基础小白适用）](https://zhuanlan.zhihu.com/p/27303650)
 
 [keras:Deep Learning library for TensorFlow and Theano](https://github.com/fchollet/keras)
 
@@ -79,6 +79,7 @@
 
 ## （三）数学篇：
 * 导数/微积分：
+
 [logistic等各类回归/线性分析/向量机](http://www.cnblogs.com/jerrylead/tag/Machine%20Learning/)
 
 ## （四）重磅消息
