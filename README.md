@@ -75,7 +75,7 @@
 
 ## （三）数学篇：
 * 导数/微积分：
-
+[logistic等各类回归/线性分析/向量机](http://www.cnblogs.com/jerrylead/tag/Machine%20Learning/)
 
 
 ## 补充：基础篇
