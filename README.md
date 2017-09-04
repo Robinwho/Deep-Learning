@@ -10,6 +10,10 @@
 [从0到1，Python Web开发的进击之路](https://zhuanlan.zhihu.com/p/25038203)
 
 [从0到1，Python异步编程的演进之路](https://zhuanlan.zhihu.com/p/25228075)
+
+[国外著名python在线编程学习网站](https://www.codecademy.com/)
+
+[国内Python在线学习网站](http://www.runoob.com/python/python-tutorial.html)
 * 实例练习：
 
 [天猫双12爬虫（福利：266万条商品数据免费下载）](https://zhuanlan.zhihu.com/p/24312829)
@@ -77,19 +81,7 @@
 * 导数/微积分：
 [logistic等各类回归/线性分析/向量机](http://www.cnblogs.com/jerrylead/tag/Machine%20Learning/)
 
-
-## 补充：基础篇
-
-|| 近期收到一些网友提问，其中有提到，不懂程序如何应用人工智能？这个问题很大，所以单列一个基础篇，整理必备的材料供参考。
-
-* 语言篇：
-毫无疑问是python。推荐[国外著名的在线编程学习网站](https://www.codecademy.com/)。或者国内的[Python在线学习网站](http://www.runoob.com/python/python-tutorial.html)。类似W3school，可以随时网上进行练习。
-
-* 基础理论篇：
-计算机本科核心课程，尤其是数据结构/线性代数等人工智能必备知识。
-
-
-## 重磅消息
+## （四）重磅消息
 * 重大政策：
 
 [【！！超级重磅！！国家官方！！】国务院关于印发新一代人工智能发展规划的通知](http://www.gov.cn/zhengce/content/2017-07/20/content_5211996.htm)
