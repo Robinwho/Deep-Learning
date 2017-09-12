@@ -1,7 +1,7 @@
 # MachineLearning-AI【持续更新ing……】
 人工智能资料汇总(Artificial Intelligent/Machine Learning/Deep Learning)
 
-## （一）Python篇：
+## 一、Python篇：
 * 基础环境：
 
 [最省心的Python版本和第三方库管理——初探Anaconda](https://zhuanlan.zhihu.com/p/25198543)
@@ -22,12 +22,12 @@
 
 [如何用100行Python代码做出魔性声控游戏“八分音符酱”](https://zhuanlan.zhihu.com/p/25499306)
 
-## （二）ML/AI篇：
+## 二、深度学习篇：
 * Deepmind：
 
-[DNC/L2L/..](https://deepmind.com/research/open-source/open-source-code/)
+[DNC/L2L/..（Deepmind开源代码汇总）](https://deepmind.com/research/open-source/open-source-code/)
 
-[Github Index](https://github.com/deepmind)
+[Github Index（Deepmind官方GitHub）](https://github.com/deepmind)
 
 [DNC:A TensorFlow implementation of the Differentiable Neural Computer.](https://github.com/deepmind/dnc)
 
@@ -41,9 +41,9 @@
 
 * 深度学习：
 
-[神经网络与深度学习](https://zhuanlan.zhihu.com/p/29045731)
+[神经网络与深度学习导引（吴恩达）](https://zhuanlan.zhihu.com/p/29045731)
 
-[深度学习入门](https://www.zhihu.com/question/26006703)
+[深度学习入门信息汇总-知乎](https://www.zhihu.com/question/26006703)
 
 [如何用70行Java代码实现深度神经网络算法](http://geek.csdn.net/news/detail/56086)
 
@@ -61,13 +61,13 @@
 
 [小白上手第一步：hello world!](https://github.com/fastforwardlabs/keras-hello-world)
 
-[小白进击之：mnist](https://github.com/wxs/keras-mnist-tutorial/blob/master/MNIST%20in%20Keras.ipynb)
+[小白上手进击之：mnist](https://github.com/wxs/keras-mnist-tutorial/blob/master/MNIST%20in%20Keras.ipynb)
 
 * 算法概述：
 
-[随机森林算法](http://www.cnblogs.com/maybe2030/p/4585705.html)
+[随机森林算法概述](http://www.cnblogs.com/maybe2030/p/4585705.html)
 
-[BP神经网络算法](http://blog.csdn.net/zhongkejingwang/article/details/44514073)
+[BP神经网络算法概述](http://blog.csdn.net/zhongkejingwang/article/details/44514073)
 
 * 在线课程：
 
@@ -77,14 +77,13 @@
 
 2 [Deep Learning Specialization Master Deep Learning, and Break into AI【原版附带习题】](https://www.coursera.org/specializations/deep-learning#courses)
 
-[TO DO]
 
-## （三）数学篇：
+## 三、数学篇：
 * 导数/微积分：
 
 [logistic等各类回归/线性分析/向量机](http://www.cnblogs.com/jerrylead/tag/Machine%20Learning/)
 
-## （四）重磅消息
+## 四、产业篇
 * 重大政策：
 
 [【重磅！】国务院关于印发新一代人工智能发展规划的通知](http://www.gov.cn/zhengce/content/2017-07/20/content_5211996.htm)
