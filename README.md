@@ -41,6 +41,8 @@
 
 * 深度学习：
 
+[神经网络与深度学习](https://zhuanlan.zhihu.com/p/29045731)
+
 [深度学习入门](https://www.zhihu.com/question/26006703)
 
 [如何用70行Java代码实现深度神经网络算法](http://geek.csdn.net/news/detail/56086)
