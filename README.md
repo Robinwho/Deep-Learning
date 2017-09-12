@@ -1,7 +1,7 @@
 # MachineLearning-AI【持续更新ing……】
 人工智能资料汇总(Artificial Intelligent/Machine Learning/Deep Learning)
 
-## 一、Python篇：
+## 一 Python篇：
 * 基础环境：
 
 [最省心的Python版本和第三方库管理——初探Anaconda](https://zhuanlan.zhihu.com/p/25198543)
@@ -22,7 +22,7 @@
 
 [如何用100行Python代码做出魔性声控游戏“八分音符酱”](https://zhuanlan.zhihu.com/p/25499306)
 
-## 二、深度学习篇：
+## 二 深度学习篇：
 * Deepmind：
 
 [DNC/L2L/..（Deepmind开源代码汇总）](https://deepmind.com/research/open-source/open-source-code/)
@@ -78,12 +78,12 @@
 2 [Deep Learning Specialization Master Deep Learning, and Break into AI【原版附带习题】](https://www.coursera.org/specializations/deep-learning#courses)
 
 
-## 三、数学篇：
+## 三 数学篇：
 * 导数/微积分：
 
 [logistic等各类回归/线性分析/向量机](http://www.cnblogs.com/jerrylead/tag/Machine%20Learning/)
 
-## 四、产业篇
+## 四 产业篇
 * 重大政策：
 
 [【重磅！】国务院关于印发新一代人工智能发展规划的通知](http://www.gov.cn/zhengce/content/2017-07/20/content_5211996.htm)
@@ -91,7 +91,4 @@
 * 重要进展：
 
 * 产业新闻：
-
-## [TO DO LIST]
-近期较忙，积攒了很多朋友的提问，将集中解答整理后，记录在此，作为分享。
 
