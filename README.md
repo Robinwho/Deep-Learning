@@ -77,6 +77,7 @@
 
 2 [Deep Learning Specialization Master Deep Learning, and Break into AI【原版附带习题】](https://www.coursera.org/specializations/deep-learning#courses)
 
+3 [斯坦福监督学习课程](http://ufldl.stanford.edu/tutorial/supervised/LogisticRegression/)
 
 ## 三 数学篇
 * 导数/微积分
