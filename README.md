@@ -49,6 +49,12 @@
 
 3 [斯坦福监督学习课程](http://ufldl.stanford.edu/tutorial/supervised/LogisticRegression/)
 
+* 论文
+
+[Artificial Intelligence(人工智能)](https://arxiv.org/list/cs.AI/recent)
+
+[Computer Vision and Pattern Recognition(计算机视觉和模式识别)](https://arxiv.org/list/cs.CV/recent)
+
 * TensorFlow
 
 [TF:An open-source software library for Machine Intelligence](https://github.com/tensorflow/tensorflow)
