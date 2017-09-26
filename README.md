@@ -33,6 +33,8 @@
 
 [如何用70行Java代码实现深度神经网络算法](http://geek.csdn.net/news/detail/56086)
 
+[【经典书籍】Deep Learning Book Chinese Translation](https://github.com/exacity/deeplearningbook-chinese)
+
 * 算法概述
 
 [随机森林算法概述](http://www.cnblogs.com/maybe2030/p/4585705.html)
