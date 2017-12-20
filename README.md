@@ -97,6 +97,14 @@
 
 [logistic等各类回归/线性分析/向量机](http://www.cnblogs.com/jerrylead/tag/Machine%20Learning/)
 
+* 深度学习精简版
+
+[线性代数](https://exacity.github.io/deeplearningbook-chinese/Chapter2_linear_algebra/)
+
+[概率与信息论](https://exacity.github.io/deeplearningbook-chinese/Chapter3_probability_and_information_theory/)
+
+[数值计算](https://exacity.github.io/deeplearningbook-chinese/Chapter4_numerical_computation/)
+
 ## 四 产业篇
 * 重大政策
 
