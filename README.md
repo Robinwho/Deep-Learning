@@ -50,6 +50,8 @@
 
 3 [斯坦福监督学习课程](http://ufldl.stanford.edu/tutorial/supervised/LogisticRegression/)
 
+4 [斯坦福李飞飞-深度学习计算机视觉](http://study.163.com/course/courseMain.htm?courseId=1003223001)
+
 * 论文
 
 [Artificial Intelligence(人工智能)](https://arxiv.org/list/cs.AI/recent)
@@ -69,6 +71,10 @@
 [小白上手第一步：hello world!](https://github.com/fastforwardlabs/keras-hello-world)
 
 [小白上手进击之：mnist](https://github.com/wxs/keras-mnist-tutorial/blob/master/MNIST%20in%20Keras.ipynb)
+
+* Caffe
+
+[Caffe: a fast open framework for deep learning.](https://github.com/BVLC/caffe)
 
 * Deepmind
 
