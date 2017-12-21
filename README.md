@@ -1,18 +1,19 @@
 # Deep Learning【持续更新……】
 
 ## 一 Python篇
-* 基础环境
+#### 基础环境
 
-1 [最省心的Python版本和第三方库管理——初探Anaconda](https://zhuanlan.zhihu.com/p/25198543)
-* 开发语言
+* **Anaconda** [最省心的Python版本和第三方库管理——初探Anaconda](https://zhuanlan.zhihu.com/p/25198543)
 
-1 [从0到1，Python Web开发的进击之路](https://zhuanlan.zhihu.com/p/25038203)
+#### 开发语言
 
-2 [从0到1，Python异步编程的演进之路](https://zhuanlan.zhihu.com/p/25228075)
+* [从0到1，Python Web开发的进击之路](https://zhuanlan.zhihu.com/p/25038203)
 
-3 [国外著名python在线编程学习网站](https://www.codecademy.com/)
+* [从0到1，Python异步编程的演进之路](https://zhuanlan.zhihu.com/p/25228075)
 
-4 [国内Python在线学习网站](http://www.runoob.com/python/python-tutorial.html)
+* [国外著名python在线编程学习网站](https://www.codecademy.com/)
+
+* [国内Python在线学习网站](http://www.runoob.com/python/python-tutorial.html)
 
 * 实例练习
 
