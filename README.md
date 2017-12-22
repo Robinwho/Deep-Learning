@@ -3,7 +3,7 @@
 ## 一 Python篇
 #### 基础环境
 
-* **Anaconda** [最省心的Python版本和第三方库管理——初探Anaconda](https://zhuanlan.zhihu.com/p/25198543)
+* **Anaconda**:[最省心的Python版本和第三方库管理——初探Anaconda](https://zhuanlan.zhihu.com/p/25198543)
 
 #### 开发语言
 
@@ -95,9 +95,9 @@
 * [L2L PAPER:Learning to learn by gradient descent by gradient descent](https://arxiv.org/pdf/1606.04474.pdf)
 
 #### 训练平台
-* **ImageNet** [image-net:计算机视觉系统识别项目](http://www.image-net.org/) *目前世界上图像识别最大的数据库*
+* **ImageNet**:[image-net:计算机视觉系统识别项目](http://www.image-net.org/) *目前世界上图像识别最大的数据库*
 
-* **Kaggle** [The Home of Data Science & Machine Learning](https://www.kaggle.com/) *Kaggle helps you learn, work, and play*
+* **Kaggle**:[The Home of Data Science & Machine Learning](https://www.kaggle.com/) *Kaggle helps you learn, work, and play*
 
 ## 三 数学篇
 #### 导数/微积分
@@ -123,6 +123,6 @@
 
 * [谷歌宣布在中国成立人工智能研究中心](https://cn.nytimes.com/business/20171214/google-ai-china/)
 
-* [谷歌AI中心成立！中国成为全世界的AI猎场](http://www.jiemian.com/article/1828941.html) *中国在人工智能领域取得巨大成就，与中国AI人才资源的丰富不无关系，有数据显示有超过60%的AI论文是华人写的*
+* [谷歌AI中心成立！中国成为全世界的AI猎场](http://www.jiemian.com/article/1828941.html) *中国在人工智能领域取得巨大成就，超过60%AI论文华人所写*
 
 * [谷歌AI中国中心正式成立 李飞飞李佳领衔(视频)](http://tech.sina.com.cn/it/2017-12-13/doc-ifyptfcm9672299.shtml)
