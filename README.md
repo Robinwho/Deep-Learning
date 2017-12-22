@@ -119,3 +119,8 @@
 
 #### 产业新闻
 
+* [谷歌宣布在中国成立人工智能研究中心](https://cn.nytimes.com/business/20171214/google-ai-china/)
+
+* [谷歌AI中心成立！中国成为全世界的AI猎场](http://www.jiemian.com/article/1828941.html) *中国在人工智能领域取得巨大成就，与中国AI人才资源的丰富不无关系，有数据显示有超过60%的AI论文是华人写的*
+
+* [谷歌AI中国中心正式成立 李飞飞李佳领衔(视频)](http://tech.sina.com.cn/it/2017-12-13/doc-ifyptfcm9672299.shtml)
