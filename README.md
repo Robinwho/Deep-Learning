@@ -15,6 +15,8 @@
 
 * [国内Python在线学习网站](http://www.runoob.com/python/python-tutorial.html)
 
+* [以撸代码的形式学习Python](https://github.com/xianhu/LearnPython)
+
  #### 实例练习
 
 * [天猫双12爬虫（福利：266万条商品数据免费下载）](https://zhuanlan.zhihu.com/p/24312829)
@@ -23,6 +25,15 @@
 
 * [如何用100行Python代码做出魔性声控游戏“八分音符酱”](https://zhuanlan.zhihu.com/p/25499306)
 * [50行代码爬网页图片一例](https://zhuanlan.zhihu.com/p/28680797)
+
+#### 爬虫框架
+
+* [Scrapy, a fast high-level web crawling & scraping framework for Python.](https://github.com/scrapy/scrapy)
+
+* [admin ui for scrapy/open source scrapinghub](https://github.com/DormyMo/SpiderKeeper)
+* [Visual scraping for Scrapy](https://github.com/scrapinghub/portia)
+* [简单易用的Python爬虫框架](https://github.com/xianhu/PSpider)
+* *数据科学家的完整学习路径（Python版）*[参考](https://zhuanlan.zhihu.com/p/23229114)
 
 ## 二 深度学习篇
 #### 深度学习
@@ -99,6 +110,8 @@
 * **ImageNet**:[image-net:计算机视觉系统识别项目](http://www.image-net.org/) *目前世界上图像识别最大的数据库*
 
 * **Kaggle**:[The Home of Data Science & Machine Learning](https://www.kaggle.com/) *Kaggle helps you learn, work, and play*
+* *辅助工具*[数据可视化分析工具汇总](https://zhuanlan.zhihu.com/p/25780330)
+* *辅助工具*[A powerful, interactive charting and visualization library for browser](http://echarts.baidu.com/examples.html)
 
 ## 三 数学篇
 #### 导数/微积分
