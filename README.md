@@ -49,6 +49,7 @@
 * [【经典书籍】Deep Learning Book Chinese Translation](https://github.com/exacity/deeplearningbook-chinese)
 
 #### 算法概述
+* [机器学习基础算法](https://exacity.github.io/deeplearningbook-chinese/Chapter5_machine_learning_basics/)*线性回归、容量/过拟合/欠拟合、最大似然估计、偏差和方差、贝叶斯统计、监督学习算法、无监督学习算法、随机梯度下降、正则化等*
 
 * [随机森林算法概述](http://www.cnblogs.com/maybe2030/p/4585705.html)
 
