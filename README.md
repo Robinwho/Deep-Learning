@@ -22,6 +22,7 @@
 * [新浪微博爬虫分享（一天可抓取 1300 万条数据）](http://blog.csdn.net/bone_ace/article/details/50903178)
 
 * [如何用100行Python代码做出魔性声控游戏“八分音符酱”](https://zhuanlan.zhihu.com/p/25499306)
+* [50行代码爬网页图片一例](https://zhuanlan.zhihu.com/p/28680797)
 
 ## 二 深度学习篇
 #### 深度学习
