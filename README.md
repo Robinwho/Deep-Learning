@@ -67,11 +67,17 @@
 
 * [斯坦福李飞飞-深度学习计算机视觉](http://study.163.com/course/courseMain.htm?courseId=1003223001)
 
-#### 论文
+#### 研究论文
 
 * [Artificial Intelligence(人工智能)](https://arxiv.org/list/cs.AI/recent)
 
 * [Computer Vision and Pattern Recognition(计算机视觉和模式识别)](https://arxiv.org/list/cs.CV/recent)
+
+* [The most cited deep learning papers](https://github.com/terryum/awesome-deep-learning-papers)
+
+* [Deep Learning papers reading roadmap for anyone](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+
+* [A curated list of awesome Deep Learning tutorials, projects and communities.](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
 #### TensorFlow
 
