@@ -58,7 +58,7 @@
 
 #### 在线课程
 
-*(优先推荐吴恩达大神的视频课程，错综复杂的内容讲的深入浅出。其中1是网易免费版，但尚无习题，需要的可直接在链接2注册获取。)*
+*(推荐吴恩达视频课程，内容深入浅出。其中1是网易免费版，尚无习题，如需要可在链接2注册获取。)*
 
 * [吴恩达给你的人工智能第一课【初学推荐】](http://mooc.study.163.com/smartSpec/detail/1001319001.htm?forcelogin=true&edusave=1)
 
@@ -141,6 +141,7 @@
 * [【重磅！】国务院关于印发新一代人工智能发展规划的通知](http://www.gov.cn/zhengce/content/2017-07/20/content_5211996.htm)
 
 #### 重要进展
+* [China is building a giant $2.1 billion research park dedicated to developing A.I.](https://www.cnbc.com/2018/01/03/china-is-building-a-giant-2-point-1-billion-ai-research-park.html)
 
 #### 产业新闻
 
