@@ -33,7 +33,7 @@
 * [admin ui for scrapy/open source scrapinghub](https://github.com/DormyMo/SpiderKeeper)
 * [Visual scraping for Scrapy](https://github.com/scrapinghub/portia)
 * [简单易用的Python爬虫框架](https://github.com/xianhu/PSpider)
-* *数据科学家的完整学习路径（Python版）*[参考](https://zhuanlan.zhihu.com/p/23229114)
+* *数据科学家的完整学习路径（Python版）* [参考](https://zhuanlan.zhihu.com/p/23229114)
 
 ## 二 深度学习篇
 #### 深度学习
@@ -49,7 +49,8 @@
 * [【经典书籍】Deep Learning Book Chinese Translation](https://github.com/exacity/deeplearningbook-chinese)
 
 #### 算法概述
-* [机器学习基础算法](https://exacity.github.io/deeplearningbook-chinese/Chapter5_machine_learning_basics/)*线性回归、容量/过拟合/欠拟合、最大似然估计、偏差和方差、贝叶斯统计、监督学习算法、无监督学习算法、随机梯度下降、正则化等*
+* [机器学习基础算法](https://exacity.github.io/deeplearningbook-chinese/Chapter5_machine_learning_basics/)
+*(线性回归、容量/过拟合/欠拟合、最大似然估计、偏差和方差、贝叶斯统计、监督学习算法、无监督学习算法、随机梯度下降、正则化等)*
 
 * [随机森林算法概述](http://www.cnblogs.com/maybe2030/p/4585705.html)
 
@@ -57,7 +58,7 @@
 
 #### 在线课程
 
-*优先推荐吴恩达大神的视频课程，错综复杂的内容讲的深入浅出。其中1是网易免费版，但尚无习题，需要的可直接在链接2注册获取。*
+*(优先推荐吴恩达大神的视频课程，错综复杂的内容讲的深入浅出。其中1是网易免费版，但尚无习题，需要的可直接在链接2注册获取。)*
 
 * [吴恩达给你的人工智能第一课【初学推荐】](http://mooc.study.163.com/smartSpec/detail/1001319001.htm?forcelogin=true&edusave=1)
 
@@ -83,6 +84,10 @@
 
 * [TF:An open-source software library for Machine Intelligence](https://github.com/tensorflow/tensorflow)
 
+#### Caffe
+
+* [Caffe: a fast open framework for deep learning.](https://github.com/BVLC/caffe)
+
 #### keras
 
 * [keras:Deep Learning library for TensorFlow and Theano](https://github.com/fchollet/keras)
@@ -93,9 +98,6 @@
 
 * [小白上手进击之：mnist](https://github.com/wxs/keras-mnist-tutorial/blob/master/MNIST%20in%20Keras.ipynb)
 
-#### Caffe
-
-* [Caffe: a fast open framework for deep learning.](https://github.com/BVLC/caffe)
 
 #### Deepmind
 
@@ -117,8 +119,8 @@
 * **ImageNet**:[image-net:计算机视觉系统识别项目](http://www.image-net.org/) *目前世界上图像识别最大的数据库*
 
 * **Kaggle**:[The Home of Data Science & Machine Learning](https://www.kaggle.com/) *Kaggle helps you learn, work, and play*
-* *辅助工具*[数据可视化分析工具汇总](https://zhuanlan.zhihu.com/p/25780330)
-* *辅助工具*[A powerful, interactive charting and visualization library for browser](http://echarts.baidu.com/examples.html)
+* *辅助工具*:[数据可视化分析工具汇总](https://zhuanlan.zhihu.com/p/25780330)
+* *辅助工具*:[A powerful, interactive charting and visualization library for browser](http://echarts.baidu.com/examples.html)
 
 ## 三 数学篇
 #### 导数/微积分
