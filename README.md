@@ -88,6 +88,10 @@
 
 * [Caffe: a fast open framework for deep learning.](https://github.com/BVLC/caffe)
 
+#### Torch
+* [Torch is a scientific computing framework for machine learning algorithms that puts GPUs first](https://github.com/torch/torch7)
+* [Code and data for paper "Deep Photo Style Transfer"](https://github.com/luanfujun/deep-photo-styletransfer)
+
 #### keras
 
 * [keras:Deep Learning library for TensorFlow and Theano](https://github.com/fchollet/keras)
@@ -115,12 +119,25 @@
 
 * [L2L PAPER:Learning to learn by gradient descent by gradient descent](https://arxiv.org/pdf/1606.04474.pdf)
 
+#### 其他框架
+* [Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler](https://github.com/apache/incubator-mxnet)
+
 #### 训练平台
 * **ImageNet**:[image-net:计算机视觉系统识别项目](http://www.image-net.org/) *目前世界上图像识别最大的数据库*
 
 * **Kaggle**:[The Home of Data Science & Machine Learning](https://www.kaggle.com/) *Kaggle helps you learn, work, and play*
-* *辅助工具*:[数据可视化分析工具汇总](https://zhuanlan.zhihu.com/p/25780330)
-* *辅助工具*:[A powerful, interactive charting and visualization library for browser](http://echarts.baidu.com/examples.html)
+
+### 辅助工具
+* [数据可视化分析工具汇总](https://zhuanlan.zhihu.com/p/25780330)
+* [A powerful, interactive charting and visualization library for browser](http://echarts.baidu.com/examples.html)
+* [Google机器学习可视化工具Facets：从全新角度观察数据](https://github.com/pair-code/facets)
+* [Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application](https://github.com/apache/incubator-superset)
+* [CUDA在线学习](http://www.nvidia.cn/object/cuda_education_cn_old.html)
+* [A distributed tracing system, and APM ( Application Performance Monitoring )](https://github.com/apache/incubator-skywalking)
+
+### 场景应用
+* [垃圾邮件/情绪分析/智能客服等：Library for fast text representation and classification.](https://github.com/facebookresearch/fastText)
+* [脸部识别：The world's simplest facial recognition api for Python and the command line.](https://github.com/ageitgey/face_recognition)
 
 ## 三 数学篇
 #### 导数/微积分
