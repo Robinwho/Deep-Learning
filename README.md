@@ -80,6 +80,8 @@
 
 * [A curated list of awesome Deep Learning tutorials, projects and communities.](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
+* [Efficient and Robust Automated Machine Learning](http://papers.nips.cc/paper/5872-efficient-and-robust-automated-machine-learning.pdf)
+
 #### TensorFlow
 
 * [TF:An open-source software library for Machine Intelligence](https://github.com/tensorflow/tensorflow)
@@ -127,6 +129,8 @@
 
 * **Kaggle**:[The Home of Data Science & Machine Learning](https://www.kaggle.com/) *Kaggle helps you learn, work, and play*
 
+* **AutoML**:[CLOUD AUTOML ALPHA](https://cloud.google.com/automl/) *Train high quality custom machine learning models with minimum effort and machine learning expertise*
+
 ### 辅助工具
 * [数据可视化分析工具汇总](https://zhuanlan.zhihu.com/p/25780330)
 * [A powerful, interactive charting and visualization library for browser](http://echarts.baidu.com/examples.html)
@@ -167,3 +171,5 @@
 * [谷歌AI中心成立！中国成为全世界的AI猎场](http://www.jiemian.com/article/1828941.html) *中国在人工智能领域取得巨大成就，超过60%AI论文华人所写*
 
 * [谷歌AI中国中心正式成立 李飞飞李佳领衔(视频)](http://tech.sina.com.cn/it/2017-12-13/doc-ifyptfcm9672299.shtml)
+
+* [李飞飞发文发布谷歌云AutoML Vision平台，订制化的企业级机器学习模型不再是难题](https://www.leiphone.com/news/201801/zX7QekrL4HF2s1qT.html)
