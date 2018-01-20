@@ -1,7 +1,7 @@
 # Deep Learning【持续更新……】
 
 ### Latest
-* [Google Cloud AutoML初体验](https://zhuanlan.zhihu.com/p/33112756)
+* [Google Cloud AutoML初体验](https://zhuanlan.zhihu.com/p/33112756) *解决人工智能和机器学习的高门槛，降低高使用成本*
 
 ## 一 Python篇
 ### 基础环境
