@@ -1,11 +1,14 @@
 # Deep Learning【持续更新……】
 
+### Latest
+* [Google Cloud AutoML初体验](https://zhuanlan.zhihu.com/p/33112756)
+
 ## 一 Python篇
-#### 基础环境
+### 基础环境
 
 * **Anaconda**:[最省心的Python版本和第三方库管理——初探Anaconda](https://zhuanlan.zhihu.com/p/25198543)
 
-#### 开发语言
+### 开发语言
 
 * [从0到1，Python Web开发的进击之路](https://zhuanlan.zhihu.com/p/25038203)
 
@@ -17,7 +20,7 @@
 
 * [以撸代码的形式学习Python](https://github.com/xianhu/LearnPython)
 
- #### 实例练习
+ ### 实例练习
 
 * [天猫双12爬虫（福利：266万条商品数据免费下载）](https://zhuanlan.zhihu.com/p/24312829)
 
@@ -26,7 +29,7 @@
 * [如何用100行Python代码做出魔性声控游戏“八分音符酱”](https://zhuanlan.zhihu.com/p/25499306)
 * [50行代码爬网页图片一例](https://zhuanlan.zhihu.com/p/28680797)
 
-#### 爬虫框架
+### 爬虫框架
 
 * [Scrapy, a fast high-level web crawling & scraping framework for Python.](https://github.com/scrapy/scrapy)
 
@@ -36,7 +39,7 @@
 * *数据科学家的完整学习路径（Python版）* [参考](https://zhuanlan.zhihu.com/p/23229114)
 
 ## 二 深度学习篇
-#### 深度学习
+### 深度学习
 
 * [神经网络与深度学习导引（吴恩达）](https://zhuanlan.zhihu.com/p/29045731)
 
@@ -48,7 +51,7 @@
 
 * [【经典书籍】Deep Learning Book Chinese Translation](https://github.com/exacity/deeplearningbook-chinese)
 
-#### 算法概述
+### 算法概述
 * [机器学习基础算法](https://exacity.github.io/deeplearningbook-chinese/Chapter5_machine_learning_basics/)
 *(线性回归、容量/过拟合/欠拟合、最大似然估计、偏差和方差、贝叶斯统计、监督学习算法、无监督学习算法、随机梯度下降、正则化等)*
 
@@ -56,7 +59,7 @@
 
 * [BP神经网络算法概述](http://blog.csdn.net/zhongkejingwang/article/details/44514073)
 
-#### 在线课程
+### 在线课程
 
 *(推荐吴恩达视频课程，内容深入浅出。其中1是网易免费版，尚无习题，如需要可在链接2注册获取。)*
 
@@ -68,7 +71,7 @@
 
 * [斯坦福李飞飞-深度学习计算机视觉](http://study.163.com/course/courseMain.htm?courseId=1003223001)
 
-#### 研究论文
+### 研究论文
 
 * [Artificial Intelligence(人工智能)](https://arxiv.org/list/cs.AI/recent)
 
@@ -82,19 +85,19 @@
 
 * [Efficient and Robust Automated Machine Learning](http://papers.nips.cc/paper/5872-efficient-and-robust-automated-machine-learning.pdf)
 
-#### TensorFlow
+### TensorFlow
 
 * [TF:An open-source software library for Machine Intelligence](https://github.com/tensorflow/tensorflow)
 
-#### Caffe
+### Caffe
 
 * [Caffe: a fast open framework for deep learning.](https://github.com/BVLC/caffe)
 
-#### Torch
+### Torch
 * [Torch is a scientific computing framework for machine learning algorithms that puts GPUs first](https://github.com/torch/torch7)
 * [Code and data for paper "Deep Photo Style Transfer"](https://github.com/luanfujun/deep-photo-styletransfer)
 
-#### keras
+### keras
 
 * [keras:Deep Learning library for TensorFlow and Theano](https://github.com/fchollet/keras)
 
@@ -105,7 +108,7 @@
 * [小白上手进击之：mnist](https://github.com/wxs/keras-mnist-tutorial/blob/master/MNIST%20in%20Keras.ipynb)
 
 
-#### Deepmind
+### Deepmind
 
 * [DNC/L2L/..（Deepmind开源代码汇总）](https://deepmind.com/research/open-source/open-source-code/)
 
@@ -121,10 +124,10 @@
 
 * [L2L PAPER:Learning to learn by gradient descent by gradient descent](https://arxiv.org/pdf/1606.04474.pdf)
 
-#### 其他框架
+### 其他框架
 * [Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler](https://github.com/apache/incubator-mxnet)
 
-#### 训练平台
+### 训练平台
 * **ImageNet**:[image-net:计算机视觉系统识别项目](http://www.image-net.org/) *目前世界上图像识别最大的数据库*
 
 * **Kaggle**:[The Home of Data Science & Machine Learning](https://www.kaggle.com/) *Kaggle helps you learn, work, and play*
@@ -144,11 +147,11 @@
 * [脸部识别：The world's simplest facial recognition api for Python and the command line.](https://github.com/ageitgey/face_recognition)
 
 ## 三 数学篇
-#### 导数/微积分
+### 导数/微积分
 
 * [logistic等各类回归/线性分析/向量机](http://www.cnblogs.com/jerrylead/tag/Machine%20Learning/)
 
-#### 深度学习精简版
+### 深度学习精简版
 
 * [线性代数](https://exacity.github.io/deeplearningbook-chinese/Chapter2_linear_algebra/)
 
@@ -157,14 +160,14 @@
 * [数值计算](https://exacity.github.io/deeplearningbook-chinese/Chapter4_numerical_computation/)
 
 ## 四 产业篇
-#### 重大政策
+### 重大政策
 
 * [【重磅！】国务院关于印发新一代人工智能发展规划的通知](http://www.gov.cn/zhengce/content/2017-07/20/content_5211996.htm)
 
-#### 重要进展
+### 重要进展
 * [China is building a giant $2.1 billion research park dedicated to developing A.I.](https://www.cnbc.com/2018/01/03/china-is-building-a-giant-2-point-1-billion-ai-research-park.html)
 
-#### 产业新闻
+### 产业新闻
 
 * [谷歌宣布在中国成立人工智能研究中心](https://cn.nytimes.com/business/20171214/google-ai-china/)
 
