@@ -114,6 +114,7 @@
 * [脸部识别：The world's simplest facial recognition api for Python and the command line.](https://github.com/ageitgey/face_recognition)
 * [Android物体识别APP：Fast-RCNN and Scene Recognition using Caffe](https://github.com/tzutalin/Android-Object-Detection)
 * [Google物体识别API：Object_Detection_Tensorflow_API](https://github.com/priya-dwivedi/Deep-Learning/blob/master/Object_Detection_Tensorflow_API.ipynb)
+* [对于谷歌开源的TensorFlow Object Detection API视频物体识别系统实现教程](http://blog.csdn.net/xiaoxiao123jun/article/details/76605928)
 
 ## 三 数学篇
 ### 导数/微积分
