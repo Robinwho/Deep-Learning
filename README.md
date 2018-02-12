@@ -1,6 +1,8 @@
 # Deep Learning【持续更新……】
 
 ### Latest
+* [驾驭AI：好的数据集是成功的一半](https://zhuanlan.zhihu.com/p/33782177) *如何迈出第一步*
+* [快速搭建有趣的人工智能应用](https://zhuanlan.zhihu.com/p/33378716) *未充分训练的模型*
 * [Google Cloud AutoML初体验](https://zhuanlan.zhihu.com/p/33112756) *解决人工智能和机器学习的高门槛，降低高使用成本*
 
 ## 一 Python篇
@@ -115,6 +117,10 @@
 * [Android物体识别APP：Fast-RCNN and Scene Recognition using Caffe](https://github.com/tzutalin/Android-Object-Detection)
 * [Google物体识别API：Object_Detection_Tensorflow_API](https://github.com/priya-dwivedi/Deep-Learning/blob/master/Object_Detection_Tensorflow_API.ipynb)
 * [对于谷歌开源的TensorFlow Object Detection API视频物体识别系统实现教程](http://blog.csdn.net/xiaoxiao123jun/article/details/76605928)
+
+* [驾驭AI：好的数据集是成功的一半](https://zhuanlan.zhihu.com/p/33782177) *如何迈出第一步*
+* [快速搭建有趣的人工智能应用](https://zhuanlan.zhihu.com/p/33378716) *未充分训练的模型*
+* [Google Cloud AutoML初体验](https://zhuanlan.zhihu.com/p/33112756) *解决人工智能和机器学习的高门槛，降低高使用成本*
 
 ## 三 数学篇
 ### 导数/微积分
