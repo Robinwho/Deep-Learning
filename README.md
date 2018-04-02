@@ -1,10 +1,5 @@
 # Deep Learning【持续更新……】
 
-### Latest
-* [驾驭AI：好的数据集是成功的一半](https://zhuanlan.zhihu.com/p/33782177) *如何迈出第一步*
-* [快速搭建有趣的人工智能应用](https://zhuanlan.zhihu.com/p/33378716) *未充分训练的模型*
-* [Google Cloud AutoML初体验](https://zhuanlan.zhihu.com/p/33112756) *解决人工智能和机器学习的高门槛，降低高使用成本*
-
 ## 一 Python篇
 ### 基础环境
 
@@ -41,6 +36,9 @@
 * [深度学习入门信息汇总-知乎](https://www.zhihu.com/question/26006703)
 * [如何用70行Java代码实现深度神经网络算法](http://geek.csdn.net/news/detail/56086)
 * [【经典书籍】Deep Learning Book Chinese Translation](https://github.com/exacity/deeplearningbook-chinese)
+* [驾驭AI：好的数据集是成功的一半](https://zhuanlan.zhihu.com/p/33782177) *如何迈出第一步*
+* [快速搭建有趣的人工智能应用](https://zhuanlan.zhihu.com/p/33378716) *未充分训练的模型*
+* [Google Cloud AutoML初体验](https://zhuanlan.zhihu.com/p/33112756) *解决人工智能和机器学习的高门槛，降低高使用成本*
 
 ### 算法概述
 * [机器学习基础算法](https://exacity.github.io/deeplearningbook-chinese/Chapter5_machine_learning_basics/)
@@ -97,6 +95,7 @@
 * [lab:A customisable 3D platform for agent-based AI research](https://github.com/deepmind/lab)
 * [Deepmind org lab page](https://deepmind.com/blog/open-sourcing-deepmind-lab/)
 * [L2L PAPER:Learning to learn by gradient descent by gradient descent](https://arxiv.org/pdf/1606.04474.pdf)
+* [Google is finding ways to make money from Alphabet's DeepMind A.I. technology](https://www.cnbc.com/2018/03/31/how-google-makes-money-from-alphabets-deepmind-ai-research-group.html) *应用*
 
 ### 训练平台
 * **ImageNet**:[image-net:计算机视觉系统识别项目](http://www.image-net.org/) *目前世界上图像识别最大的数据库*
@@ -118,9 +117,8 @@
 * [Google物体识别API：Object_Detection_Tensorflow_API](https://github.com/priya-dwivedi/Deep-Learning/blob/master/Object_Detection_Tensorflow_API.ipynb)
 * [对于谷歌开源的TensorFlow Object Detection API视频物体识别系统实现教程](http://blog.csdn.net/xiaoxiao123jun/article/details/76605928)
 
-* [驾驭AI：好的数据集是成功的一半](https://zhuanlan.zhihu.com/p/33782177) *如何迈出第一步*
-* [快速搭建有趣的人工智能应用](https://zhuanlan.zhihu.com/p/33378716) *未充分训练的模型*
-* [Google Cloud AutoML初体验](https://zhuanlan.zhihu.com/p/33112756) *解决人工智能和机器学习的高门槛，降低高使用成本*
+* [Facebook AI 负责人：深度学习技术趋势报告（2016）](https://mp.weixin.qq.com/s/fgVcpZvzr0WE8eP0gSRQdw) *一文总结历史沿革*
+
 
 ## 三 数学篇
 ### 导数/微积分
@@ -138,11 +136,15 @@
 
 * [【重磅！】国务院关于印发新一代人工智能发展规划的通知](http://www.gov.cn/zhengce/content/2017-07/20/content_5211996.htm)
 
+
 ### 重要进展
 * [China is building a giant $2.1 billion research park dedicated to developing A.I.](https://www.cnbc.com/2018/01/03/china-is-building-a-giant-2-point-1-billion-ai-research-park.html)
+* [当量子计算遇上人工智能](http://it.people.com.cn/n1/2018/0402/c1009-29901958.html)
 
 ### 产业新闻
 
+* [人工智能：新技术的“双刃剑”](http://www.edu.cn/xxh/ji_shu_ju_le_bu/rgzn/201804/t20180402_1593248.shtml)
+* [Five Ways Machine Learning Can Save Your Company From A Security Breach Meltdown](https://www.forbes.com/sites/louiscolumbus/2018/03/26/five-ways-machine-learning-can-save-your-company-from-a-security-breach-meltdown/#610afd7d2585)
 * [谷歌宣布在中国成立人工智能研究中心](https://cn.nytimes.com/business/20171214/google-ai-china/)
 * [谷歌AI中心成立！中国成为全世界的AI猎场](http://www.jiemian.com/article/1828941.html) *中国在人工智能领域取得巨大成就，超过60%AI论文华人所写*
 * [谷歌AI中国中心正式成立 李飞飞李佳领衔(视频)](http://tech.sina.com.cn/it/2017-12-13/doc-ifyptfcm9672299.shtml)
