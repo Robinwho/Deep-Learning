@@ -1,4 +1,4 @@
-# Deep Learning【持续更新……】
+# Deep Learning【持续更新中】
 
 ## 一 Python篇
 ### 基础环境
@@ -69,6 +69,7 @@
 ### TensorFlow
 
 * [TF:An open-source software library for Machine Intelligence](https://github.com/tensorflow/tensorflow)
+* [TensorFlow Guide 中文开发手册](https://cloud.tencent.com/developer/doc/1241)
 
 ### Caffe
 
