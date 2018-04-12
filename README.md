@@ -39,12 +39,16 @@
 * [驾驭AI：好的数据集是成功的一半](https://zhuanlan.zhihu.com/p/33782177) *如何迈出第一步*
 * [快速搭建有趣的人工智能应用](https://zhuanlan.zhihu.com/p/33378716) *未充分训练的模型*
 * [Google Cloud AutoML初体验](https://zhuanlan.zhihu.com/p/33112756) *解决人工智能和机器学习的高门槛，降低高使用成本*
+* [卷积神经网络简介](https://zhuanlan.zhihu.com/p/25249694)
 
 ### 算法概述
 * [机器学习基础算法](https://exacity.github.io/deeplearningbook-chinese/Chapter5_machine_learning_basics/)
 *(线性回归、容量/过拟合/欠拟合、最大似然估计、偏差和方差、贝叶斯统计、监督学习算法、无监督学习算法、随机梯度下降、正则化等)*
 * [随机森林算法概述](http://www.cnblogs.com/maybe2030/p/4585705.html)
 * [BP神经网络算法概述](http://blog.csdn.net/zhongkejingwang/article/details/44514073)
+* [监督机器学习的优化方法：从线性模型到深度学习](https://arxiv.org/abs/1706.10207)
+* [Adam：随机优化的一种方法](https://arxiv.org/abs/1412.6980)
+* [训练神经网络的5种算法](https://www.neuraldesigner.com/blog/5_algorithms_to_train_a_neural_network)
 
 ### 在线课程
 
@@ -150,6 +154,7 @@
 * [谷歌AI中心成立！中国成为全世界的AI猎场](http://www.jiemian.com/article/1828941.html) *中国在人工智能领域取得巨大成就，超过60%AI论文华人所写*
 * [谷歌AI中国中心正式成立 李飞飞李佳领衔(视频)](http://tech.sina.com.cn/it/2017-12-13/doc-ifyptfcm9672299.shtml)
 * [李飞飞发文发布谷歌云AutoML Vision平台，订制化的企业级机器学习模型不再是难题](https://www.leiphone.com/news/201801/zX7QekrL4HF2s1qT.html)
+* [全球100家代表性AI公司](https://www.jiqizhixin.com/articles/2018-01-10-5)
 
 ## 附：TOP深度学习项目
 
