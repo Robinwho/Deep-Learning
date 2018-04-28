@@ -1,5 +1,7 @@
 # Deep Learning【持续更新中】
 
+*新增Swift for TensorFlow、oneclick、CustomVision.AI等训练平台内容*
+
 ## 一 Python篇
 ### 基础环境
 
@@ -74,6 +76,9 @@
 
 * [TF:An open-source software library for Machine Intelligence](https://github.com/tensorflow/tensorflow)
 * [TensorFlow Guide 中文开发手册](https://cloud.tencent.com/developer/doc/1241)
+* [Swift for TensorFlow documentation repository.](https://github.com/tensorflow/swift)
+* [Swift for TensorFlow Design Overview](https://github.com/tensorflow/swift/blob/master/docs/DesignOverview.md)
+* [Using Swift for TensorFlow](https://github.com/tensorflow/swift/blob/master/Usage.md)
 
 ### Caffe
 
@@ -106,6 +111,8 @@
 * **ImageNet**:[image-net:计算机视觉系统识别项目](http://www.image-net.org/) *目前世界上图像识别最大的数据库*
 * **Kaggle**:[The Home of Data Science & Machine Learning](https://www.kaggle.com/) *Kaggle helps you learn, work, and play*
 * **AutoML**:[CLOUD AUTOML ALPHA](https://cloud.google.com/automl/) *Train high quality custom machine learning models with minimum effort and machine learning expertise*
+* **CustomVision.AI**:[Visual Intelligence Made Easy](https://www.customvision.ai/) *Microsoft Custom Vision Services*
+* **oneclick**:[Use AI to Build AI](https://www.oneclick.ai/) *The faster and easier way to build high-performing customized AI for those who don't want to become an AI expert.*
 
 ### 辅助工具
 * [数据可视化分析工具汇总](https://zhuanlan.zhihu.com/p/25780330)
@@ -145,6 +152,7 @@
 ### 重要进展
 * [China is building a giant $2.1 billion research park dedicated to developing A.I.](https://www.cnbc.com/2018/01/03/china-is-building-a-giant-2-point-1-billion-ai-research-park.html)
 * [当量子计算遇上人工智能](http://it.people.com.cn/n1/2018/0402/c1009-29901958.html)
+
 
 ### 产业新闻
 
