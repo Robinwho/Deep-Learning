@@ -14,6 +14,7 @@
 * [国外著名python在线编程学习网站](https://www.codecademy.com/)
 * [国内Python在线学习网站](http://www.runoob.com/python/python-tutorial.html)
 * [以撸代码的形式学习Python](https://github.com/xianhu/LearnPython)
+* [重磅！Google开源！Swift or Python？](https://zhuanlan.zhihu.com/p/36228084)
 
  ### 实例练习
 
