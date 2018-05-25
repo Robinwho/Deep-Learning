@@ -34,6 +34,7 @@
 ## 二 深度学习篇
 ### 深度学习
 
+* [【经典】机器学习必看的5张图](https://zhuanlan.zhihu.com/p/37288569)
 * [神经网络与深度学习导引（吴恩达）](https://zhuanlan.zhihu.com/p/29045731)
 * [【入门推荐】10行命令感受机器学习的神奇（0基础小白适用）](https://zhuanlan.zhihu.com/p/27303650)
 * [深度学习入门信息汇总-知乎](https://www.zhihu.com/question/26006703)
@@ -66,12 +67,13 @@
 
 * [Artificial Intelligence(人工智能)](https://arxiv.org/list/cs.AI/recent)
 * [Computer Vision and Pattern Recognition(计算机视觉和模式识别)](https://arxiv.org/list/cs.CV/recent)
-* [The most cited deep learning papers](https://github.com/terryum/awesome-deep-learning-papers)
+* [awesome-deep-learning-papers:The most cited deep learning papers](https://github.com/terryum/awesome-deep-learning-papers)
 * [Deep Learning papers reading roadmap for anyone](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
-* [A curated list of awesome Deep Learning tutorials, projects and communities.](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [awesome-deep-learning:A curated list of awesome Deep Learning tutorials, projects and communities.](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [Efficient and Robust Automated Machine Learning](http://papers.nips.cc/paper/5872-efficient-and-robust-automated-machine-learning.pdf)
 * [Microsoft COCO: Common Objects in Context](https://arxiv.org/pdf/1405.0312.pdf)
 * [Speed/accuracy trade-offs for modern convolutional object detectors](https://arxiv.org/pdf/1611.10012.pdf)
+
 
 ### TensorFlow
 
