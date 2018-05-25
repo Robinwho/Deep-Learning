@@ -1,6 +1,6 @@
 # Deep Learning【持续更新中】
 
-*新增Swift for TensorFlow、oneclick、CustomVision.AI等训练平台内容*
+*新增《机器学习必看的5张图》、Swift for TensorFlow等训练平台内容*
 
 ## 一 Python篇
 ### 基础环境
@@ -34,7 +34,7 @@
 ## 二 深度学习篇
 ### 深度学习
 
-* [【经典】机器学习必看的5张图](https://zhuanlan.zhihu.com/p/37288569)
+* [【经典】机器学习必看的5张图](https://zhuanlan.zhihu.com/p/37288569) *必看系列--机器学习全景图*
 * [神经网络与深度学习导引（吴恩达）](https://zhuanlan.zhihu.com/p/29045731)
 * [【入门推荐】10行命令感受机器学习的神奇（0基础小白适用）](https://zhuanlan.zhihu.com/p/27303650)
 * [深度学习入门信息汇总-知乎](https://www.zhihu.com/question/26006703)
