@@ -1,6 +1,7 @@
 # Deep Learning【持续更新中】
 
 *新增《机器学习必看的5张图》、Swift for TensorFlow等训练平台内容*
+*新文* * [年轻人怎么办：AI将取代50%的岗位与技能](https://zhuanlan.zhihu.com/p/44275076)
 
 ## 一 Python篇
 ### 基础环境
@@ -152,6 +153,7 @@
 * [【重磅！】国务院关于印发新一代人工智能发展规划的通知](http://www.gov.cn/zhengce/content/2017-07/20/content_5211996.htm)
 
 
+
 ### 重要进展
 * [China is building a giant $2.1 billion research park dedicated to developing A.I.](https://www.cnbc.com/2018/01/03/china-is-building-a-giant-2-point-1-billion-ai-research-park.html)
 * [当量子计算遇上人工智能](http://it.people.com.cn/n1/2018/0402/c1009-29901958.html)
@@ -163,8 +165,8 @@
 * [Five Ways Machine Learning Can Save Your Company From A Security Breach Meltdown](https://www.forbes.com/sites/louiscolumbus/2018/03/26/five-ways-machine-learning-can-save-your-company-from-a-security-breach-meltdown/#610afd7d2585)
 * [谷歌宣布在中国成立人工智能研究中心](https://cn.nytimes.com/business/20171214/google-ai-china/)
 * [谷歌AI中心成立！中国成为全世界的AI猎场](http://www.jiemian.com/article/1828941.html) *中国在人工智能领域取得巨大成就，超过60%AI论文华人所写*
-* [谷歌AI中国中心正式成立 李飞飞李佳领衔(视频)](http://tech.sina.com.cn/it/2017-12-13/doc-ifyptfcm9672299.shtml)
-* [李飞飞发文发布谷歌云AutoML Vision平台，订制化的企业级机器学习模型不再是难题](https://www.leiphone.com/news/201801/zX7QekrL4HF2s1qT.html)
+* [李飞飞离职谷歌云重返斯坦福，Andrew Moore接任AI总帅](http://www.sohu.com/a/253180071_99970711)
+* [李飞飞确认将离职 谷歌云AI总帅换人](http://tech.sina.com.cn/csj/2018-09-11/doc-ihiixyeu5950354.shtml)
 * [全球100家代表性AI公司](https://www.jiqizhixin.com/articles/2018-01-10-5)
 
 ## 附：TOP深度学习项目
