@@ -1,7 +1,6 @@
 # Deep Learning【持续更新中】
 
-*新增《机器学习必看的5张图》、Swift for TensorFlow等训练平台内容*
-*新文* * [年轻人怎么办：AI将取代50%的岗位与技能](https://zhuanlan.zhihu.com/p/44275076)
+*新文章* * [AI轻松学习版(短视频）](https://zhuanlan.zhihu.com/p/47736351)
 
 ## 一 Python篇
 ### 基础环境
