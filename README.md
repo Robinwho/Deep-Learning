@@ -1,11 +1,14 @@
-# Deep Learning【持续更新中】
+[![MIT](https://img.shields.io/badge/license-MIT-5eba00.svg)](https://github.com/GokuMohandas/practicalAI/blob/master/LICENSE)
 
-*新文章* * [AI轻松学习版(短视频）](https://zhuanlan.zhihu.com/p/47736351)
+# Deep Learning【精选更新】
+
+- 🔥 New：本期新增神经网络与深度学习、ArXiv论文及代码、深度学习速查表及笔试面试精选等内容
 
 ## 一 Python篇
 ### 基础环境
 
-* **Anaconda**:[最省心的Python版本和第三方库管理——初探Anaconda](https://zhuanlan.zhihu.com/p/25198543)
+- 📦 Anaconda
+* [最省心的Python版本和第三方库管理——初探Anaconda](https://zhuanlan.zhihu.com/p/25198543)
 
 ### 开发语言
 
@@ -14,7 +17,6 @@
 * [国外著名python在线编程学习网站](https://www.codecademy.com/)
 * [国内Python在线学习网站](http://www.runoob.com/python/python-tutorial.html)
 * [以撸代码的形式学习Python](https://github.com/xianhu/LearnPython)
-* [重磅！Google开源！Swift or Python？](https://zhuanlan.zhihu.com/p/36228084)
 
  ### 实例练习
 
@@ -29,14 +31,15 @@
 * [admin ui for scrapy/open source scrapinghub](https://github.com/DormyMo/SpiderKeeper)
 * [Visual scraping for Scrapy](https://github.com/scrapinghub/portia)
 * [简单易用的Python爬虫框架](https://github.com/xianhu/PSpider)
-* *数据科学家的完整学习路径（Python版）* [参考](https://zhuanlan.zhihu.com/p/23229114)
+* [数据科学家的完整学习路径（Python版）](https://zhuanlan.zhihu.com/p/23229114)
 
 ## 二 深度学习篇
-### 深度学习
+### 深度学习 📚
 
-* [【经典】机器学习必看的5张图](https://zhuanlan.zhihu.com/p/37288569) *必看系列--机器学习全景图*
+* [【经典】机器学习必看的5张图](https://zhuanlan.zhihu.com/p/37288569) *机器学习全景图*
+* [🔥深度学习/机器学习必备速查表](https://github.com/kailashahirwar/cheatsheets-ai) *11767 top stars*
 * [神经网络与深度学习导引（吴恩达）](https://zhuanlan.zhihu.com/p/29045731)
-* [【入门推荐】10行命令感受机器学习的神奇（0基础小白适用）](https://zhuanlan.zhihu.com/p/27303650)
+* [🔥【入门推荐】10行命令感受机器学习的神奇（0基础小白适用）](https://zhuanlan.zhihu.com/p/27303650)
 * [深度学习入门信息汇总-知乎](https://www.zhihu.com/question/26006703)
 * [如何用70行Java代码实现深度神经网络算法](http://geek.csdn.net/news/detail/56086)
 * [【经典书籍】Deep Learning Book Chinese Translation](https://github.com/exacity/deeplearningbook-chinese)
@@ -54,16 +57,18 @@
 * [Adam：随机优化的一种方法](https://arxiv.org/abs/1412.6980)
 * [训练神经网络的5种算法](https://www.neuraldesigner.com/blog/5_algorithms_to_train_a_neural_network)
 
-### 在线课程
+### 在线课程 🎥
 
-*(推荐吴恩达视频课程，内容深入浅出。其中1是网易免费版，尚无习题，如需要可在链接2注册获取。)*
+*(推荐Michael Nielsen及吴恩达视频课程，内容深入浅出。其中1是网易免费版，尚无习题，如需要可在链接2注册获取。)*
 
-* [吴恩达给你的人工智能第一课【初学推荐】](http://mooc.study.163.com/smartSpec/detail/1001319001.htm?forcelogin=true&edusave=1)
+* [🔥Michael Nielsen:Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
+* [🔥吴恩达给你的人工智能第一课【初学推荐】](http://mooc.study.163.com/smartSpec/detail/1001319001.htm?forcelogin=true&edusave=1)
 * [Deep Learning Specialization Master Deep Learning, and Break into AI【原版附带习题】](https://www.coursera.org/specializations/deep-learning#courses)
 * [斯坦福监督学习课程](http://ufldl.stanford.edu/tutorial/supervised/LogisticRegression/)
 * [斯坦福李飞飞-深度学习计算机视觉](http://study.163.com/course/courseMain.htm?courseId=1003223001)
+* [AI轻松学习版(短视频）](https://zhuanlan.zhihu.com/p/47736351)
 
-### 研究论文
+### 研究论文 📓
 
 * [Artificial Intelligence(人工智能)](https://arxiv.org/list/cs.AI/recent)
 * [Computer Vision and Pattern Recognition(计算机视觉和模式识别)](https://arxiv.org/list/cs.CV/recent)
@@ -110,7 +115,7 @@
 * [L2L PAPER:Learning to learn by gradient descent by gradient descent](https://arxiv.org/pdf/1606.04474.pdf)
 * [Google is finding ways to make money from Alphabet's DeepMind A.I. technology](https://www.cnbc.com/2018/03/31/how-google-makes-money-from-alphabets-deepmind-ai-research-group.html) *应用*
 
-### 训练平台
+### 训练平台 📊
 * **ImageNet**:[image-net:计算机视觉系统识别项目](http://www.image-net.org/) *目前世界上图像识别最大的数据库*
 * **Kaggle**:[The Home of Data Science & Machine Learning](https://www.kaggle.com/) *Kaggle helps you learn, work, and play*
 * **AutoML**:[CLOUD AUTOML ALPHA](https://cloud.google.com/automl/) *Train high quality custom machine learning models with minimum effort and machine learning expertise*
@@ -118,6 +123,7 @@
 * **oneclick**:[Use AI to Build AI](https://www.oneclick.ai/) *The faster and easier way to build high-performing customized AI for those who don't want to become an AI expert.*
 
 ### 辅助工具
+* [ArXiv最新论文及GitHub代码大全](https://paperswithcode.com/sota) *704 leaderboards • 1038 tasks • 831 datasets • 10673 papers with code*
 * [数据可视化分析工具汇总](https://zhuanlan.zhihu.com/p/25780330)
 * [A powerful, interactive charting and visualization library for browser](http://echarts.baidu.com/examples.html)
 * [Google机器学习可视化工具Facets：从全新角度观察数据](https://github.com/pair-code/facets)
@@ -125,7 +131,7 @@
 * [CUDA在线学习](http://www.nvidia.cn/object/cuda_education_cn_old.html)
 * [A distributed tracing system, and APM ( Application Performance Monitoring )](https://github.com/apache/incubator-skywalking)
 
-### 场景应用
+### 场景应用 📈
 * [垃圾邮件/情绪分析/智能客服等：Library for fast text representation and classification.](https://github.com/facebookresearch/fastText)
 * [脸部识别：The world's simplest facial recognition api for Python and the command line.](https://github.com/ageitgey/face_recognition)
 * [Android物体识别APP：Fast-RCNN and Scene Recognition using Caffe](https://github.com/tzutalin/Android-Object-Detection)
@@ -134,6 +140,8 @@
 
 * [Facebook AI 负责人：深度学习技术趋势报告（2016）](https://mp.weixin.qq.com/s/fgVcpZvzr0WE8eP0gSRQdw) *一文总结历史沿革*
 
+### 笔面精选
+* [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)
 
 ## 三 数学篇
 ### 导数/微积分
@@ -151,8 +159,6 @@
 
 * [【重磅！】国务院关于印发新一代人工智能发展规划的通知](http://www.gov.cn/zhengce/content/2017-07/20/content_5211996.htm)
 
-
-
 ### 重要进展
 * [China is building a giant $2.1 billion research park dedicated to developing A.I.](https://www.cnbc.com/2018/01/03/china-is-building-a-giant-2-point-1-billion-ai-research-park.html)
 * [当量子计算遇上人工智能](http://it.people.com.cn/n1/2018/0402/c1009-29901958.html)
@@ -162,10 +168,6 @@
 
 * [人工智能：新技术的“双刃剑”](http://www.edu.cn/xxh/ji_shu_ju_le_bu/rgzn/201804/t20180402_1593248.shtml)
 * [Five Ways Machine Learning Can Save Your Company From A Security Breach Meltdown](https://www.forbes.com/sites/louiscolumbus/2018/03/26/five-ways-machine-learning-can-save-your-company-from-a-security-breach-meltdown/#610afd7d2585)
-* [谷歌宣布在中国成立人工智能研究中心](https://cn.nytimes.com/business/20171214/google-ai-china/)
-* [谷歌AI中心成立！中国成为全世界的AI猎场](http://www.jiemian.com/article/1828941.html) *中国在人工智能领域取得巨大成就，超过60%AI论文华人所写*
-* [李飞飞离职谷歌云重返斯坦福，Andrew Moore接任AI总帅](http://www.sohu.com/a/253180071_99970711)
-* [李飞飞确认将离职 谷歌云AI总帅换人](http://tech.sina.com.cn/csj/2018-09-11/doc-ihiixyeu5950354.shtml)
 * [全球100家代表性AI公司](https://www.jiqizhixin.com/articles/2018-01-10-5)
 
 ## 附：TOP深度学习项目
