@@ -1,4 +1,9 @@
 [![MIT](https://img.shields.io/badge/license-MIT-5eba00.svg)](https://github.com/GokuMohandas/practicalAI/blob/master/LICENSE)
+[![Github](http://github-svg-buttons.herokuapp.com/star.svg?user=Robinwho&repo=Deep-Learning&style=flat&background=1081C1)](https://github.com/Robinwho/Deep-Learning)
+[![HitCount](http://hits.dwyl.io/Robinwho/Deep-Learning.svg)](http://hits.dwyl.io/Robinwho/Deep-Learning)
+[![Build Status](https://travis-ci.org/Wechat-Group/WxJava.svg?branch=develop)](https://travis-ci.org/Wechat-Group/WxJava)
+
+
 
 # Deep Learning【精选更新】
 
@@ -170,33 +175,33 @@
 * [Five Ways Machine Learning Can Save Your Company From A Security Breach Meltdown](https://www.forbes.com/sites/louiscolumbus/2018/03/26/five-ways-machine-learning-can-save-your-company-from-a-security-breach-meltdown/#610afd7d2585)
 * [全球100家代表性AI公司](https://www.jiqizhixin.com/articles/2018-01-10-5)
 
-## 附：TOP深度学习项目
+## 附：TOP深度学习项目 🔥
 
-#### 最后更新（star5000+排序）: 2018.01.27
+#### 最后更新（star5000+排序）: 2019.04.02 / 上次更新：2018.01.27
 
 | Project Name| Stars | Description |
 | ------- | ------ | ------ |
-| [TensorFlow](https://github.com/tensorflow/tensorflow) | 87240 | Computation using data flow graphs for scalable machine learning.
-| [TensorFlow Models](https://github.com/tensorflow/models) | 27191 |  Models built with TensorFlow.
-| [Keras](https://github.com/fchollet/keras) | 24620 | Deep Learning library for Python. Convnets, recurrent neural networks, and more. Runs on Theano and TensorFlow.
-| [Caffe](https://github.com/BVLC/caffe) | 22528 | Caffe: a fast open framework for deep learning.
-| [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) | 19669 | TensorFlow tutorials and code examples for beginners.
-| [Neural Style](https://github.com/jcjohnson/neural-style) | 15205 | Torch implementation of neural style algorithm.
-| [CNTK](https://github.com/Microsoft/CNTK) | 13701 | Computational Network Toolkit (CNTK).
-| [MXNet](https://github.com/dmlc/mxnet) | 12883 | Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more.
-| [Deep Dream](https://github.com/google/deepdream) | 10923 | Deep Dream.
-| [OpenAI Gym](https://github.com/openai/gym) | 9789 | A toolkit for developing and comparing reinforcement learning algorithms.
-| [OpenFace](https://github.com/cmusatyalab/openface) | 9080 | Face recognition with deep neural networks.
-| [ConvNet JS](https://github.com/karpathy/convnetjs) | 8658 | Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
-| [Magenta](https://github.com/tensorflow/magenta) | 8563 | Magenta: Music and Art Generation with Machine Intelligence
-| [Roc AlphaGo](https://github.com/Rochester-NRT/RocAlphaGo) | 8465 | An independent, student-led replication of DeepMind's 2016 Nature publication, "Mastering the game of Go with deep neural networks and tree search" (Nature 529, 484-489, 28 Jan 2016).
-| [Neural Doodle](https://github.com/alexjc/neural-doodle) | 8312 | Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... there's more! (An implementation of Semantic Style Transfer.)
-| [deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) | 8173 | Deep Learning for Java, Scala & Clojure on Hadoop, Spark.
-| [Theano](https://github.com/Theano/Theano) | 7696 | Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.
-| [Torch](https://github.com/torch/torch7) | 7633 | Torch7, Deep Learning Library.
-| [TFLearn](https://github.com/tflearn/tflearn) | 7527 | Deep learning library featuring a higher-level API for TensorFlow.
-| [Char RNN](https://github.com/karpathy/char-rnn) | 7343 | Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch.
-| [TensorFlow Playground](https://github.com/tensorflow/playground) | 6181 | Play with neural networks!
-| [Synaptic](https://github.com/cazala/synaptic) | 5725 | architecture-free neural network library for node.js and the browser
-| [Nupic](https://github.com/numenta/nupic) | 5457 | Numenta Platform for Intelligent Computing: a brain-inspired machine intelligence platform, and biologically accurate neural network based on cortical learning algorithms.
-| [Leaf](https://github.com/autumnai/leaf) | 5179 | Open Machine Intelligence Framework for Hackers.
+| [TensorFlow](https://github.com/tensorflow/tensorflow) | 124490 | Computation using data flow graphs for scalable machine learning.
+| [TensorFlow Models](https://github.com/tensorflow/models) | 50630 |  Models built with TensorFlow.
+| [Keras](https://github.com/fchollet/keras) | 39678 | Deep Learning library for Python. Convnets, recurrent neural networks, and more. Runs on Theano and TensorFlow.
+| [Caffe](https://github.com/BVLC/caffe) | 27691 | Caffe: a fast open framework for deep learning.
+| [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) | 30458 | TensorFlow tutorials and code examples for beginners.
+| [Neural Style](https://github.com/jcjohnson/neural-style) | 16692 | Torch implementation of neural style algorithm.
+| [CNTK](https://github.com/Microsoft/CNTK) | 15965 | Computational Network Toolkit (CNTK).
+| [MXNet](https://github.com/dmlc/mxnet) | 16622 | Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more.
+| [Deep Dream](https://github.com/google/deepdream) | 11871 | Deep Dream.
+| [OpenAI Gym](https://github.com/openai/gym) | 16117 | A toolkit for developing and comparing reinforcement learning algorithms.
+| [OpenFace](https://github.com/cmusatyalab/openface) | 11845 | Face recognition with deep neural networks.
+| [ConvNet JS](https://github.com/karpathy/convnetjs) | 9600 | Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
+| [Magenta](https://github.com/tensorflow/magenta) | 12790 | Magenta: Music and Art Generation with Machine Intelligence
+| [Roc AlphaGo](https://github.com/Rochester-NRT/RocAlphaGo) | 8918 | An independent, student-led replication of DeepMind's 2016 Nature publication, "Mastering the game of Go with deep neural networks and tree search" (Nature 529, 484-489, 28 Jan 2016).
+| [Neural Doodle](https://github.com/alexjc/neural-doodle) | 9050 | Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... there's more! (An implementation of Semantic Style Transfer.)
+| [deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) | 10560 | Deep Learning for Java, Scala & Clojure on Hadoop, Spark.
+| [Theano](https://github.com/Theano/Theano) | 8732 | Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.
+| [Torch](https://github.com/torch/torch7) | 8241 | Torch7, Deep Learning Library.
+| [TFLearn](https://github.com/tflearn/tflearn) | 9002 | Deep learning library featuring a higher-level API for TensorFlow.
+| [Char RNN](https://github.com/karpathy/char-rnn) | 9211 | Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch.
+| [TensorFlow Playground](https://github.com/tensorflow/playground) | 8015 | Play with neural networks!
+| [Synaptic](https://github.com/cazala/synaptic) | 6463 | architecture-free neural network library for node.js and the browser
+| [Nupic](https://github.com/numenta/nupic) | 5864 | Numenta Platform for Intelligent Computing: a brain-inspired machine intelligence platform, and biologically accurate neural network based on cortical learning algorithms.
+| [Leaf](https://github.com/autumnai/leaf) | 5389 | Open Machine Intelligence Framework for Hackers.
