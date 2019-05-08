@@ -1,5 +1,4 @@
 [![MIT](https://img.shields.io/badge/license-MIT-5eba00.svg)](https://github.com/GokuMohandas/practicalAI/blob/master/LICENSE)
-[![Github](http://github-svg-buttons.herokuapp.com/star.svg?user=Robinwho&repo=Deep-Learning&style=flat&background=1081C1)](https://github.com/Robinwho/Deep-Learning)
 [![HitCount](http://hits.dwyl.io/Robinwho/Deep-Learning.svg)](http://hits.dwyl.io/Robinwho/Deep-Learning)
 [![Build Status](https://travis-ci.org/Wechat-Group/WxJava.svg?branch=develop)](https://travis-ci.org/Wechat-Group/WxJava)
 
