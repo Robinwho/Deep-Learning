@@ -6,7 +6,7 @@
 
 # Deep Learning【精选更新】
 
-- 🔥 New：【重磅来袭】[Facebook Unveils Cryptocurrency Libra as an Alternative to Bitcoin](https://www.wsj.com/articles/facebook-unveils-crypto-wallet-based-on-currency-libra-11560850141)
+- 🔥 New：【近期热点】[DeepNude的算法以及通用的Image-to-Image理论与实践研究](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology)
 - 🔥 New：本期新增神经网络与深度学习、ArXiv论文及代码、深度学习速查表及笔试面试精选等内容
 
 ## 一 Python篇
@@ -177,6 +177,8 @@ Resources](https://developers.libra.org/docs/assets/papers/libra-move-a-language
 * [人工智能：新技术的“双刃剑”](http://www.edu.cn/xxh/ji_shu_ju_le_bu/rgzn/201804/t20180402_1593248.shtml)
 * [Five Ways Machine Learning Can Save Your Company From A Security Breach Meltdown](https://www.forbes.com/sites/louiscolumbus/2018/03/26/five-ways-machine-learning-can-save-your-company-from-a-security-breach-meltdown/#610afd7d2585)
 * [全球100家代表性AI公司](https://www.jiqizhixin.com/articles/2018-01-10-5)
+**相关
+* [Facebook Unveils Cryptocurrency Libra as an Alternative to Bitcoin](https://www.wsj.com/articles/facebook-unveils-crypto-wallet-based-on-currency-libra-11560850141)
 * [Libra:A simple global currency and financial infrastructure that empowers billions of people](https://libra.org/en-US/)
 
 ## 附：TOP深度学习项目 🔥
