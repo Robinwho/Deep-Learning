@@ -7,6 +7,8 @@
 # Deep Learning【精选更新】
 
 - 🔥 New：【近期热点】[DeepNude的算法以及通用的Image-to-Image理论与实践研究](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology)
+- 🔥 New：[一文读懂GAN前世今生：Generative Adversarial Networks - The Story So Far](https://blog.floydhub.com/gans-story-so-far/)
+- 🔥 New：[如何规划和启动你的ML/DL项目](https://blog.floydhub.com/structuring-and-planning-your-machine-learning-project/)
 - 🔥 New：本期新增神经网络与深度学习、ArXiv论文及代码、深度学习速查表及笔试面试精选等内容
 
 ## 一 Python篇
@@ -86,6 +88,13 @@ Resources](https://developers.libra.org/docs/assets/papers/libra-move-a-language
 * [Efficient and Robust Automated Machine Learning](http://papers.nips.cc/paper/5872-efficient-and-robust-automated-machine-learning.pdf)
 * [Microsoft COCO: Common Objects in Context](https://arxiv.org/pdf/1405.0312.pdf)
 * [Speed/accuracy trade-offs for modern convolutional object detectors](https://arxiv.org/pdf/1611.10012.pdf)
+#### GAN
+* [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004.pdf)
+* [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://arxiv.org/pdf/1711.11585.pdf)
+* [Unpaired Image-to-Image Translation
+using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593.pdf)
+* [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/pdf/1812.04948.pdf)
+* [Generating Cats with StyleGAN on AWS SageMaker](https://devopstar.com/2019/02/25/generating-cats-with-stylegan-on-aws-sagemaker/)
 
 
 ### TensorFlow
@@ -145,7 +154,6 @@ Resources](https://developers.libra.org/docs/assets/papers/libra-move-a-language
 * [Android物体识别APP：Fast-RCNN and Scene Recognition using Caffe](https://github.com/tzutalin/Android-Object-Detection)
 * [Google物体识别API：Object_Detection_Tensorflow_API](https://github.com/priya-dwivedi/Deep-Learning/blob/master/Object_Detection_Tensorflow_API.ipynb)
 * [对于谷歌开源的TensorFlow Object Detection API视频物体识别系统实现教程](http://blog.csdn.net/xiaoxiao123jun/article/details/76605928)
-
 * [Facebook AI 负责人：深度学习技术趋势报告（2016）](https://mp.weixin.qq.com/s/fgVcpZvzr0WE8eP0gSRQdw) *一文总结历史沿革*
 
 ### 笔面精选
