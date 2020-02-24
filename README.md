@@ -8,10 +8,7 @@
 - 🔥 New：[新星JAX ：双挑TensorFlow和PyTorch！有望担纲Google主要科学计算库和神经网络库](https://mp.weixin.qq.com/s/eaYwiV2LZNRwzPEeOA1XFg)
 - 🔥 New：[美国欲施压台积电限制供货华为，不惜切断全球芯片供应链](https://mp.weixin.qq.com/s/U2neXufxJlrsBapumsTPOQ)
 - 🔥 New：[7万病例，迄今最大新冠研究发表：传染性超SARS，医务人员感染超三千](https://mp.weixin.qq.com/s/tPX7EFb3BF51pwn0IcP7aA)
-- 🔥 New：[]()
-- 🔥 New：[]()
-- 🔥 New：[]()
-- 🔥 New：[]()
+
 - 🔥 New：[DeepNude的算法以及通用的Image-to-Image理论与实践研究](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology)
 - 🔥 New：[一文读懂GAN前世今生：Generative Adversarial Networks - The Story So Far](https://blog.floydhub.com/gans-story-so-far/)
 - 🔥 New：[如何规划和启动你的ML/DL项目](https://blog.floydhub.com/structuring-and-planning-your-machine-learning-project/)
