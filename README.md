@@ -231,5 +231,6 @@ using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593.pd
 # AT LAST
 - 🔥🔥🔥：您已经看到了最后，更多精彩，请关注【未名小猪】吧：
 
-![](https://github.com/Robinwho/Deep-Learning/blob/master/pkupig2.gif)
+![](https://github.com/Robinwho/Deep-Learning/blob/master/pkupig.jpg)
+
 
