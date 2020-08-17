@@ -2,16 +2,19 @@
 [![HitCount](http://hits.dwyl.io/Robinwho/Deep-Learning.svg)](http://hits.dwyl.io/Robinwho/Deep-Learning)
 [![Build Status](https://travis-ci.org/Wechat-Group/WxJava.svg?branch=develop)](https://travis-ci.org/Wechat-Group/WxJava)
 
+# TIPS
+因工作繁忙，更新有延迟。公众号更新更方便，欢迎大家关注：
+
+
+
+工作生活随想，与大家交流。
 
 # Deep Learning【精选更新】
 - 🔥 New：[不怕学不够，只怕不够学：这份MIT最新深度学习入门公开课请收好](https://mp.weixin.qq.com/s/ADWu9IL3PTBkwXLckuxAig)
-- 🔥 New：[新星JAX ：双挑TensorFlow和PyTorch！有望担纲Google主要科学计算库和神经网络库](https://mp.weixin.qq.com/s/eaYwiV2LZNRwzPEeOA1XFg)
-- 🔥 New：[美国欲施压台积电限制供货华为，不惜切断全球芯片供应链](https://mp.weixin.qq.com/s/U2neXufxJlrsBapumsTPOQ)
-- 🔥 New：[7万病例，迄今最大新冠研究发表：传染性超SARS，医务人员感染超三千](https://mp.weixin.qq.com/s/tPX7EFb3BF51pwn0IcP7aA)
-
-- 🔥 New：[DeepNude的算法以及通用的Image-to-Image理论与实践研究](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology)
-- 🔥 New：[一文读懂GAN前世今生：Generative Adversarial Networks - The Story So Far](https://blog.floydhub.com/gans-story-so-far/)
 - 🔥 New：[如何规划和启动你的ML/DL项目](https://blog.floydhub.com/structuring-and-planning-your-machine-learning-project/)
+- 🔥 New：[马斯克星链正式上线！装个UFO ，来测星链互联网下载速度](https://mp.weixin.qq.com/s/14Ehw3GIxx4VEMJy0W2igQ)
+- 🔥 New：[吴恩达直击灵魂叩问：AI社区最亟待解决的问题是什么？](https://mp.weixin.qq.com/s/XzihLduiM-vMJWrNte189g)
+
 - 🔥 New：本期新增神经网络与深度学习、ArXiv论文及代码、深度学习速查表及笔试面试精选等内容
 
 ## 一 Python篇
@@ -191,6 +194,8 @@ using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593.pd
 **相关
 * [Facebook Unveils Cryptocurrency Libra as an Alternative to Bitcoin](https://www.wsj.com/articles/facebook-unveils-crypto-wallet-based-on-currency-libra-11560850141)
 * [Libra:A simple global currency and financial infrastructure that empowers billions of people](https://libra.org/en-US/)
+* [DeepNude的算法以及通用的Image-to-Image理论与实践研究](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology)
+* [一文读懂GAN前世今生：Generative Adversarial Networks - The Story So Far](https://blog.floydhub.com/gans-story-so-far/)
 
 ## 附：TOP深度学习项目 🔥
 
