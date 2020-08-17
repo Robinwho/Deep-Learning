@@ -3,11 +3,10 @@
 [![Build Status](https://travis-ci.org/Wechat-Group/WxJava.svg?branch=develop)](https://travis-ci.org/Wechat-Group/WxJava)
 
 # TIPS
-因工作繁忙，更新有延迟。公众号更新更方便，欢迎大家关注：
+因工作繁忙，更新有延迟。公众号更方便，欢迎大家关注留言，工作生活随想，与大家交流：
 
+![](https://github.com/Robinwho/Deep-Learning/blob/master/pkupig.jpg)
 
-
-工作生活随想，与大家交流。
 
 # Deep Learning【精选更新】
 - 🔥 New：[不怕学不够，只怕不够学：这份MIT最新深度学习入门公开课请收好](https://mp.weixin.qq.com/s/ADWu9IL3PTBkwXLckuxAig)
