@@ -3,7 +3,8 @@
 [![Build Status](https://travis-ci.org/Wechat-Group/WxJava.svg?branch=develop)](https://travis-ci.org/Wechat-Group/WxJava)
 
 # TIPS
-因工作繁忙，更新有延迟。公众号更方便，欢迎大家关注留言，工作生活随想，与大家交流：
+- 🔥🔥🔥🔥🔥🔥🔥🔥 因工作繁忙，更新有延迟。公众号【未名小猪】更方便 🔥🔥🔥🔥🔥🔥🔥🔥
+- 🔥🔥🔥🔥🔥🔥🔥🔥 欢迎大家关注留言，工作生活随想，与大家交流 🔥🔥🔥🔥🔥🔥🔥🔥
 
 ![](https://github.com/Robinwho/Deep-Learning/blob/master/pkupig.jpg)
 
@@ -226,3 +227,9 @@ using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593.pd
 | [Synaptic](https://github.com/cazala/synaptic) | 6463 | architecture-free neural network library for node.js and the browser
 | [Nupic](https://github.com/numenta/nupic) | 5864 | Numenta Platform for Intelligent Computing: a brain-inspired machine intelligence platform, and biologically accurate neural network based on cortical learning algorithms.
 | [Leaf](https://github.com/autumnai/leaf) | 5389 | Open Machine Intelligence Framework for Hackers.
+
+# AT LAST
+- 🔥🔥🔥：您已经看到了最后，更多精彩，请关注【未名小猪】吧：
+
+![](https://github.com/Robinwho/Deep-Learning/blob/master/pkupig2.gif)
+
