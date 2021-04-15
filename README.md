@@ -3,13 +3,15 @@
 [![Build Status](https://travis-ci.org/Wechat-Group/WxJava.svg?branch=develop)](https://travis-ci.org/Wechat-Group/WxJava)
 
 # TIPS
-- 🔥🔥🔥🔥🔥🔥🔥🔥 因工作繁忙，更新有延迟。公众号【未名小猪】更方便 🔥🔥🔥🔥🔥🔥🔥🔥
+- 🔥🔥🔥🔥🔥🔥🔥🔥 因工作繁忙，更新有延迟。公众号【久哥传奇】更方便 🔥🔥🔥🔥🔥🔥🔥🔥
 - 🔥🔥🔥🔥🔥🔥🔥🔥 欢迎大家关注留言，工作生活随想，与大家交流 🔥🔥🔥🔥🔥🔥🔥🔥
 
 ![](https://github.com/Robinwho/Deep-Learning/blob/master/pkupig.jpg)
 
 
 # Deep Learning【精选更新】
+- 🔥 New：[10款推荐系统仿真器（模拟平台）汇总和点评](https://blog.csdn.net/baishuiniyaonulia/article/details/113914843)
+- 
 - 🔥 New：[不怕学不够，只怕不够学：这份MIT最新深度学习入门公开课请收好](https://mp.weixin.qq.com/s/ADWu9IL3PTBkwXLckuxAig)
 - 🔥 New：[如何规划和启动你的ML/DL项目](https://blog.floydhub.com/structuring-and-planning-your-machine-learning-project/)
 - 🔥 New：[马斯克星链正式上线！装个UFO ，来测星链互联网下载速度](https://mp.weixin.qq.com/s/14Ehw3GIxx4VEMJy0W2igQ)
